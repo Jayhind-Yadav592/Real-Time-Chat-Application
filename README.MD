@@ -1,4 +1,4 @@
-💬 ChatApp – Real-Time Messaging Web App
+💬 ChatApp – Real-Time Chat Application
 
 A clean, modern real-time chat application UI built using HTML, CSS, and Vanilla JavaScript. This project demonstrates a WhatsApp-style interface with a login screen, user list, chat area, typing indicators, notifications, and simulated real-time responses.
 
